@@ -1,7 +1,8 @@
 # Livro de receitas 
 
-Ola! Bem vindo ao livro de receitas 
+Ola! Bem vindo ao livro de receitas
 
- - Strogonoff de frango
-  - Pavê
-  
+- Strogonoff de frango
+- Pave
+- Bolo de cenoura
+
